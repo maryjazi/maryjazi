@@ -42,6 +42,17 @@ I work on AI-driven research and development in areas such as:
 - intelligent retrieval systems
 - graph-based reasoning
 - language-guided automation workflows
+---
+
+## 🐍 Contribution Snake
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/maryjazi/maryjazi/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/maryjazi/maryjazi/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution snake animation" src="https://raw.githubusercontent.com/maryjazi/maryjazi/output/github-contribution-grid-snake.svg">
+  </picture>
+</p>
 
 ---
 
@@ -72,17 +83,6 @@ I work on AI-driven research and development in areas such as:
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=maryjazi&theme=tokyo-night&hide_border=true"/>
 </p>
 
----
-
-## 🐍 Contribution Snake
-
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/maryjazi/maryjazi/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/maryjazi/maryjazi/output/github-contribution-grid-snake.svg">
-    <img alt="github contribution snake animation" src="https://raw.githubusercontent.com/maryjazi/maryjazi/output/github-contribution-grid-snake.svg">
-  </picture>
-</p>
 
 ---
 
