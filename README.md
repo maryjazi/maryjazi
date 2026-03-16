@@ -1,76 +1,68 @@
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2193b0,100:6dd5ed&height=200&section=header&text=Maryam%20Jazi&fontSize=40&fontAlignY=35&desc=AI%20Researcher%20|%20Computer%20Vision%20|%20Knowledge%20Graphs&descAlignY=55"/>
-</p>
-
-<h2 align="center">Hi, I'm Maryam 👋</h2>
-
-<p align="center">
-AI Researcher • Data Science • Computer Vision • Knowledge Graphs
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1CB5E0,100:000046&height=200&section=header&text=Maryam%20Jazi&fontSize=40&fontAlignY=35&desc=AI%20Researcher%20|%20Computer%20Vision%20|%20Knowledge%20Graphs&descAlignY=55"/>
 </p>
 
 <p align="center">
-Master’s student in Computer Science at TU Clausthal 🇩🇪
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=800&color=00BFFF&center=true&vCenter=true&width=600&lines=AI+Researcher;Computer+Vision+Engineer;Knowledge+Graph+Systems;Deep+Learning+for+UXO+Detection;Master+Student+at+TU+Clausthal">
 </p>
 
 ---
 
 ## 👩‍💻 About Me
 
-• 🎓 Master student in Informatik / Data Science  
-• 🔬 Researching **underwater UXO detection using deep learning**  
-• 🧠 Interested in **LLMs, Knowledge Graphs, Computer Vision**  
-• 🌍 Based in Germany  
+• 🎓 Master student in **Computer Science / Data Science**
+• 🔬 Researching **underwater UXO detection using deep learning**
+• 🧠 Interested in **LLMs, Knowledge Graphs, Computer Vision**
+• 🛠️ Python • PyTorch • Neo4j • LangChain • Docker
+• 🌍 Based in Germany
 
 ---
 
-## 🔬 Research
+## 🔬 Current Research
 
 ### Underwater UXO Detection
 
-Deep learning pipeline for detecting underwater unexploded ordnance using **ROV & DSLR images**
+Deep learning pipeline for detecting underwater unexploded ordnance using **ROV & DSLR imagery**
 
-Methods:
+**Methods**
 
-• CNN (EfficientNet)  
-• Self-Supervised Learning (SimCLR)  
-• MC Dropout (uncertainty estimation)  
-• YOLO object detection  
+• CNN (EfficientNet)
+• Self-Supervised Learning (SimCLR)
+• MC Dropout (uncertainty estimation)
+• YOLO object detection
 
 ---
 
-# 🧰 Tools & Technologies
+## 🧰 Tools & Technologies
 
 <p align="center">
+<img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,docker,git,github,linux,vscode,java,postgresql,mysql&perline=6"/>
+</p>
 
-<img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,docker,git,github,linux,vscode,java,postgresql&perline=5"/>
-
+<p align="center">
+Neo4j • LangChain • Deep Learning • Computer Vision • Knowledge Graphs
 </p>
 
 ---
 
-# 📊 GitHub Stats
+## 📊 GitHub Stats
 
 <p align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=maryjazi&show_icons=true&theme=transparent"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=maryjazi&layout=compact&theme=transparent"/>
-
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=maryjazi&show_icons=true&theme=tokyonight"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=maryjazi&layout=compact&theme=tokyonight"/>
 </p>
 
 ---
 
-# 📈 GitHub Activity
+## 📈 Activity Graph
 
 <p align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=maryjazi&theme=github-compact"/>
-
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=maryjazi&theme=tokyo-night"/>
 </p>
 
 ---
 
-# 🌐 Connect
+## 🌐 Connect
 
 <p align="center">
 
@@ -85,5 +77,5 @@ Methods:
 </p>
 
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6dd5ed,100:2193b0&height=120&section=footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000046,100:1CB5E0&height=120&section=footer"/>
 </p>
