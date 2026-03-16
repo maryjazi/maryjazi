@@ -29,7 +29,6 @@
   </a>
 </p>
 ---
-
 ## 🐍 Contribution Snake
 
 <p align="center">
