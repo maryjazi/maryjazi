@@ -58,13 +58,6 @@ I work on AI-driven research projects in areas such as:
 ---
 ## 🐍 Contribution Snake
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/maryjazi/maryjazi/output/github-contribution-grid-snake.svg" />
-</p>
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000046,100:1CB5E0&height=120&section=footer"/>
-</p>
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/maryjazi/maryjazi/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/maryjazi/maryjazi/output/github-contribution-grid-snake.svg">
