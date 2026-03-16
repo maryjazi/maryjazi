@@ -1,6 +1,6 @@
-## Hi I am Maria 👋
 
-<h1 align="center">Hi, I'm Maryam 👋</h1>
+
+<h1 align="center">Hi, I'm Maria 👋</h1>
 <h3 align="center">AI Researcher | Data Science | Computer Vision | Knowledge Graphs</h3>
 
 <p align="center">
