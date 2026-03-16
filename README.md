@@ -1,8 +1,8 @@
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:4facfe,100:00f2fe&height=220&section=header&text=Maryam%20Jazi&fontSize=45&fontAlignY=35&desc=AI%20Researcher%20%7C%20Computer%20Vision%20%7C%20Knowledge%20Graphs&descAlignY=55"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2193b0,100:6dd5ed&height=200&section=header&text=Maryam%20Jazi&fontSize=40&fontAlignY=35&desc=AI%20Researcher%20|%20Computer%20Vision%20|%20Knowledge%20Graphs&descAlignY=55"/>
 </p>
 
-<h1 align="center">Hi, I'm Maryam 👋</h1>
+<h2 align="center">Hi, I'm Maryam 👋</h2>
 
 <p align="center">
 AI Researcher • Data Science • Computer Vision • Knowledge Graphs
@@ -12,29 +12,24 @@ AI Researcher • Data Science • Computer Vision • Knowledge Graphs
 Master’s student in Computer Science at TU Clausthal 🇩🇪
 </p>
 
-<p align="center">
-<img src="https://komarev.com/ghpvc/?username=maryjazi&label=Profile%20Views&color=0e75b6&style=for-the-badge"/>
-</p>
-
 ---
 
-# 👩‍💻 About Me
+## 👩‍💻 About Me
 
 • 🎓 Master student in Informatik / Data Science  
 • 🔬 Researching **underwater UXO detection using deep learning**  
 • 🧠 Interested in **LLMs, Knowledge Graphs, Computer Vision**  
-• 🛠️ Python • PyTorch • Neo4j • LangChain • Docker  
 • 🌍 Based in Germany  
 
 ---
 
-# 🔬 Current Research
+## 🔬 Research
 
 ### Underwater UXO Detection
 
-Deep learning pipeline for detecting underwater unexploded ordnance using **ROV & DSLR imagery**.
+Deep learning pipeline for detecting underwater unexploded ordnance using **ROV & DSLR images**
 
-**Techniques**
+Methods:
 
 • CNN (EfficientNet)  
 • Self-Supervised Learning (SimCLR)  
@@ -43,49 +38,39 @@ Deep learning pipeline for detecting underwater unexploded ordnance using **ROV 
 
 ---
 
-# 🧰 Languages & Tools
+# 🧰 Tools & Technologies
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,docker,git,github,linux,vscode,java,mysql,postgresql&perline=6"/>
+<img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,docker,git,github,linux,vscode,java,postgresql&perline=5"/>
 
 </p>
 
 ---
 
-# 📊 GitHub Statistics
+# 📊 GitHub Stats
 
 <p align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=maryjazi&show_icons=true&theme=tokyonight"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=maryjazi&show_icons=true&theme=transparent"/>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=maryjazi&layout=compact&theme=tokyonight"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=maryjazi&layout=compact&theme=transparent"/>
 
 </p>
 
 ---
 
-# 🔥 Contribution Streak
+# 📈 GitHub Activity
 
 <p align="center">
 
-<img src="https://streak-stats.demolab.com?user=maryjazi&theme=tokyonight"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=maryjazi&theme=github-compact"/>
 
 </p>
 
 ---
 
-# 📈 GitHub Activity Graph
-
-<p align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=maryjazi&theme=tokyo-night"/>
-
-</p>
-
----
-
-# 🌐 Connect with Me
+# 🌐 Connect
 
 <p align="center">
 
@@ -99,8 +84,6 @@ Deep learning pipeline for detecting underwater unexploded ordnance using **ROV 
 
 </p>
 
----
-
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00f2fe,100:4facfe&height=120&section=footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6dd5ed,100:2193b0&height=120&section=footer"/>
 </p>
