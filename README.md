@@ -20,9 +20,6 @@
 - 🛠️ Building practical AI pipelines for research and real-world use cases
 - 🌍 Based in Germany
 
----
-## 🌐 Connect
-
 <p align="center">
   <a href="https://www.linkedin.com/in/maryam-jazi/">
     <img src="https://img.shields.io/badge/LinkedIn-Maryam%20Jazi-blue?style=for-the-badge&logo=linkedin"/>
