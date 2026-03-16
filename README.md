@@ -22,27 +22,6 @@
 
 ---
 
-## 🔍 Research Interests
-
-- Computer Vision
-- Knowledge Graphs
-- Large Language Models
-- Retrieval-Augmented Generation (RAG)
-- Deep Learning
-- Uncertainty-Aware AI
-- Applied AI for scientific and industrial problems
-
----
-
-## 🚀 Current Work
-
-I work on AI-driven research and development in areas such as:
-
-- underwater object detection
-- intelligent retrieval systems
-- graph-based reasoning
-- language-guided automation workflows
----
 
 ## 🐍 Contribution Snake
 
@@ -67,7 +46,27 @@ I work on AI-driven research and development in areas such as:
 </p>
 
 ---
+## 🔍 Research Interests
 
+- Computer Vision
+- Knowledge Graphs
+- Large Language Models
+- Retrieval-Augmented Generation (RAG)
+- Deep Learning
+- Uncertainty-Aware AI
+- Applied AI for scientific and industrial problems
+
+---
+
+## 🚀 Current Work
+
+I work on AI-driven research and development in areas such as:
+
+- underwater object detection
+- intelligent retrieval systems
+- graph-based reasoning
+- language-guided automation workflows
+---
 ## 📊 GitHub Stats
 
 <p align="center">
