@@ -32,7 +32,18 @@
     <img alt="github contribution snake animation" src="https://raw.githubusercontent.com/maryjazi/maryjazi/output/github-contribution-grid-snake.svg">
   </picture>
 </p>
+---
 
+## 🌐 Connect
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/maryam-jazi/">
+    <img src="https://img.shields.io/badge/LinkedIn-Maryam%20Jazi-blue?style=for-the-badge&logo=linkedin"/>
+  </a>
+  <a href="mailto:maryjazi85@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail"/>
+  </a>
+</p>
 ---
 
 ## 🧰 Tools & Technologies
@@ -83,15 +94,4 @@ I work on AI-driven research and development in areas such as:
 </p>
 
 
----
 
-## 🌐 Connect
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/maryam-jazi/">
-    <img src="https://img.shields.io/badge/LinkedIn-Maryam%20Jazi-blue?style=for-the-badge&logo=linkedin"/>
-  </a>
-  <a href="mailto:maryjazi85@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail"/>
-  </a>
-</p>
