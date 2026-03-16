@@ -43,22 +43,6 @@ Deep learning pipeline for detecting underwater unexploded ordnance using **ROV 
 Neo4j • LangChain • Deep Learning • Computer Vision • Knowledge Graphs
 </p>
 
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=maryjazi&show_icons=true&theme=tokyonight"/>
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=maryjazi&layout=compact&theme=tokyonight"/>
-</p>
-
----
-
-## 📈 Activity Graph
-
-<p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=maryjazi&theme=tokyo-night"/>
-</p>
 
 ---
 
