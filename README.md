@@ -84,6 +84,11 @@ I work on AI-driven research projects in areas such as:
     <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail"/>
   </a>
 </p>
+## 🐍 Contribution Snake
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/maryjazi/maryjazi/output/github-contribution-grid-snake.svg" />
+</p>
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000046,100:1CB5E0&height=120&section=footer"/>
